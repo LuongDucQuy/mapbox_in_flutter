@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Mapbox Demo 2',
+      title: 'Mapbox Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
